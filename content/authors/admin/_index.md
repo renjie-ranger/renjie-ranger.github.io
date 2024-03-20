@@ -85,13 +85,13 @@ skills:
         percent: 90
         icon: devicon/pytorch
       - name: Presentation
-      description: ''
-      percent: 80
-      icon: devicon/pytorch
+        description: ''
+        percent: 80
+        icon: devicon/pytorch
       - name: Academic writing
-      description: ''
-      percent: 80
-      icon: devicon/pytorch
+        description: ''
+        percent: 80
+        icon: devicon/pytorch
 
 # Languages
 languages:
@@ -112,3 +112,4 @@ awards:
     summary: Awarded for academic excellence during the freshman year.
 
 # Remove the sections or entries that are not found in your resume for consistency.
+---
