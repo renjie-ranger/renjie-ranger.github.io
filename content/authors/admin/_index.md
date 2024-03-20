@@ -107,7 +107,7 @@ languages:
 # Awards
 awards:
   - title: College Academic Excellence Award for Freshman
-    date: '2020-03'
+    date: 2020-03-01
     awarder: Beihang University
     summary: Awarded for academic excellence during the freshman year.
 
