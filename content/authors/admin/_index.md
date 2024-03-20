@@ -2,9 +2,6 @@
 # Display name
 title: Luo Renjie
 
-# Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
-
 # Full name (for SEO)
 first_name: Renjie
 last_name: Luo
@@ -17,27 +14,20 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: NLP Research Intern(Undergraduate)
+role: NLP Research Intern
 
-# Organizations/Affiliations to display in Biography blox
+# Organizations/Affiliations to display in Biography block
 organizations:
   - name: Natural Language Processing Lab at Tsinghua University(THUNLP)
     url: https://nlp.csai.tsinghua.edu.cn/
 
 # Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'shieldmore@gmail.com'
+    url: '19373228@buaa.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/ranger_loh
   - icon: brands/github
-    url: https://github.com/renjie-ranger
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/renjie-luo-a7645519a/
-  - icon: brands/instagram
-    url: https://www.instagram.com/rangerlos3141
+    url: https://github.com/OpenBMB/UltraEval
 
 education:
   - area: BEng Artificial Intelligence
@@ -48,103 +38,77 @@ education:
       GPA: 3.65/4.0
       
       Courses included:
-      - Coming soon
+      - Machine Learning (98), Data Structures (94), Advances in Artificial Intelligence (98)
+      - Pattern Recognition (90), Natural Language Processing (90)
+      - Intelligent Control and Robot Curriculum Design (95), Algorithm Design and Analysis (87)
+      - Advanced Algebra (95), Calculus II (95), Discrete Mathematics (95)
+      - Probability Theory and Statistics (92), Methods of Optimization (91)
+      - Cognitive Foundations (89), Fundamental of Neuroscience (96), Cognitive Psychology (98)
+
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Internship Trainee in NLP Research for Large Language Model
+    company_name: Natural Language Processing Lab at Tsinghua University(THUNLP)
+    company_url: https://nlp.csai.tsinghua.edu.cn/
+    date_start: 2023-12-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Focus on constructing a super hard benchmark by collecting Olympiad contest questions in
+      maths and physics for the evaluation of GPT5-level LLMs.
+
+  - position: Internship Trainee in NLP Algorithms
+    company_name: ModelBest Inc.
+    date_start: 2023-06-01
+    date_end: 2023-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Led the assessment of large language models including the establishment of an
+      automated evaluation framework. Progressed in coding proficiency and teamwork.
+
+  - position: Intern for NLP research group
+    company_name: Beijing Institute for General Artificial Intelligence
+    date_start: 2021-11-01
+    date_end: 2022-02-28
+    summary: |
+      Gained foundational understanding of the scientific research workflow and tasked with
+      processing extensive datasets.
 
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: devicon/python
-      - name: RStudio
+      - name: Teamwork
         description: ''
-        percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
-        description: ''
-        percent: 40
+        percent: 90
         icon: devicon/pytorch
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - name: Presentation
+      description: ''
+      percent: 80
+      icon: devicon/pytorch
+      - name: Academic writing
+      description: ''
+      percent: 80
+      icon: devicon/pytorch
 
+# Languages
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
+    percent: 100
+  - name: Japanese
+    percent: 60
+  - name: Cantonese
     percent: 75
-  - name: Portuguese
-    percent: 25
 
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+# Awards
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
----
+  - title: College Academic Excellence Award for Freshman
+    date: '2020-03'
+    awarder: Beihang University
+    summary: Awarded for academic excellence during the freshman year.
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+# Remove the sections or entries that are not found in your resume for consistency.
