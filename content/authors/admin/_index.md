@@ -28,6 +28,12 @@ profiles:
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/OpenBMB/UltraEval
+  - icon: brands/x
+    url: https://twitter.com/ranger_loh
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/renjie-luo-a7645519a/
+  - icon: brands/instagram
+    url: https://www.instagram.com/rangerlos3141
 
 education:
   - area: BEng Artificial Intelligence
@@ -83,15 +89,31 @@ skills:
       - name: Teamwork
         description: ''
         percent: 90
-        icon: devicon/pytorch
+        icon: team
       - name: Presentation
         description: ''
         percent: 80
-        icon: devicon/pytorch
+        icon: presentation
       - name: Academic writing
         description: ''
         percent: 80
-        icon: devicon/pytorch
+        icon: ac_writing
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Badminton
+        description: 'Level 2.5 in Zhongyu grading scale'
+        percent: 60
+        icon: badminton
+      - name: Swimming
+        description: 'Only breaststroke and crawl stroke'
+        percent: 70
+        icon: swim
+      - name: Workout
+        description: 'Begin for a few months'
+        percent: 60
+        icon: workout
 
 # Languages
 languages:
