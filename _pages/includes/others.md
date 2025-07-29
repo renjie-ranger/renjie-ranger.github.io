@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- *2025.01 - Present*, Ph.D. Student, Artificial Intelligence, Singapore University of Technology and Design (SUTD), Singapore.
+- *2025.01 - Present*, Ph.D. Student, Singapore University of Technology and Design (SUTD), Singapore.
 - *2019.09 - 2024.06*, Bachelor, Artificial Intelligence, Beihang University, Beijing, China.
 
 # 💻 Internships

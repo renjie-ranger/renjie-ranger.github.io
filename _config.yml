@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Renjie Luo (罗人杰)"
-description              : "Ph.D. Student at SUTD. Focusing on Large Language Model Post-training and Reasoning."
+description              : "Focusing on LLM Post-training and Reasoning."
 repository               : "renjie-ranger/renjie-ranger.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -135,7 +135,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
