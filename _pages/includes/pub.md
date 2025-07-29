@@ -3,7 +3,7 @@
 
 ## 🧠 Large Language Model & Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/olympiadbench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='pub_images/OlympiadBench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems](https://arxiv.org/abs/2402.14008) \\
@@ -16,7 +16,7 @@ Chaoqun He, **Renjie Luo**, Yuzhuo Bai, Shengding Hu, Xu Han, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/ultraeval.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='pub_images/UltraEval.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs](https://arxiv.org/abs/2404.07584) \\
@@ -30,7 +30,7 @@ Chaoqun He, **Renjie Luo**, Yuzhuo Bai, Shengding Hu, Xu Han, et al.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/cot_training.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='pub_images/through_the_valley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Through the Valley: Path to Effective Long CoT Training for Small Language Models](https://arxiv.org/abs/2506.07712) \\
