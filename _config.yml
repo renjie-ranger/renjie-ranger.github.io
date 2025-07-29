@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Renjie Luo (罗人杰)"
-description              : "Incoming Ph.D. student in Singapore. Focusing on Large Language Model."
+description              : "Ph.D. Student at SUTD. Focusing on Large Language Model Post-training and Reasoning."
 repository               : "renjie-ranger/renjie-ranger.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 # Site Author
 author:
   name             : "Renjie Luo (罗人杰)"
-  avatar           : "images/ry_profile.jpeg"
-  bio              : "TikTok"
-  location         : "Beijing(currently)"
+  avatar           : "images/renjie.jpg"
+  bio              : "Ph.D. Student at SUTD"
+  location         : "Singapore"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=X7Fy--gAAAAJ"
-  email            : "renjie.luoxxx@outlook.com(without the 'xxx')"
+  email            : "renjie.luo@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

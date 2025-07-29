@@ -1,6 +1,6 @@
 # 🔥 News
-- *2024.03*: 🎉 Two papers are accepted by ICLR 2024
-- *2023.05*: 🎉 Five papers are accepted by ACL 2023
-- *2023.01*: DiffSinger was introduced in [a very popular video](https://www.bilibili.com/video/BV1uM411t7ZJ) (2000k+ views) in Bilibili!
-- *2023.01*: I join TikTok <img src='./images/tiktok.png' style='width: 6em;'> as a speech research scientist in Singapore!
-- *2022.02*: I release a modern and responsive academic personal [homepage template](https://github.com/RayeRen/acad-homepage.github.io). Welcome to STAR and FORK!
+- *2025.01*: 🎉 Started my Ph.D. journey at Singapore University of Technology and Design (SUTD), supervised by Prof. Wei Lu!
+- *2024.12*: 🎉 Completed internship at REDnote Inc., focusing on RL-enhanced LLM fine-tuning for mathematical reasoning.
+- *2024.06*: 🎓 Graduated from Beihang University with a Bachelor's degree in Artificial Intelligence Engineering.
+- *2024.05*: 🎉 Two papers accepted by ACL 2024: OlympiadBench (278+ citations) and UltraEval!
+- *2023.12*: 🔬 Started internship at Tsinghua University THUNLP, working on Olympiad-level benchmarks for LLMs.
