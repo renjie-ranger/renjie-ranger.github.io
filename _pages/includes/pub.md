@@ -33,7 +33,7 @@ Chaoqun He, **Renjie Luo**, Yuzhuo Bai, Shengding Hu, Xu Han, et al.
 <div class='paper-box-text' markdown="1">
 
 [UltraEval: A Lightweight Platform for Flexible and Comprehensive Evaluation for LLMs](https://arxiv.org/abs/2404.07584) \\
-Chaoqun He, **Renjie Luo**, Yuzhuo Bai, Shengding Hu, Xu Han, et al.
+Chaoqun He, **Renjie Luo**, Shengding Hu, Yuanqian Zhao, Jie Zhou, et al.
 
 [**Project**](https://github.com/OpenBMB/UltraEval) <strong><span class='show_paper_citations' data='X7Fy--gAAAAJ:u-x6o8ySG0sC'></span></strong>
 
