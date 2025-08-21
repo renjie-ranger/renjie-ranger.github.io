@@ -3,7 +3,7 @@
 
 ## 🧠 LLM Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='pub_images/through_the_valley.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='pub_images/through_the_valley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Through the Valley: Path to Effective Long CoT Training for Small Language Models](https://arxiv.org/abs/2506.07712) \\
