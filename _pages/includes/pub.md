@@ -3,7 +3,7 @@
 
 ## 🧠 LLM Reasoning
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='pub_images/verbal_feedback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='pub_images/verbal_feedback.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Language Models Can Learn from Verbal Feedback without Scalar Rewards](https://arxiv.org/pdf/2509.22638) \\
