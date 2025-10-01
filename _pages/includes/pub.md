@@ -12,12 +12,10 @@ Wenhu Chen, Wei Lu, Tianyu Pang*
 
 [**Project**](https://github.com/sail-sg/feedback-conditional-policy) <strong><span class='show_paper_citations' data='X7Fy--gAAAAJ:u5HHmVD_uO8C'></span></strong>
 
-- **TLDR**: 🚀 We show that LLMs can directly learn from **verbal feedback** — no scalar rewards required.  
-- **Motivation**: Scalar rewards compress rich feedback into single numbers (e.g., “redundant but correct” vs. “concise but typo-ridden” both → 0.8). This discards nuance.  
+- **TLDR**: 🚀 We show that LLMs can directly learn from **verbal feedback** — no scalar rewards required.
 - **Method**: We propose the **Feedback-Conditional Policy (FCP)** — treating feedback as a **conditioning signal**.  
   - **Offline stage**: Learn from response–feedback pairs via simple MLE.  
-  - **Online stage**: Bootstrap with fresh critiques, refining the policy iteratively.  
-- **Impact**: Reframes feedback-driven learning as **conditional generation** rather than reward optimization, providing a highly scalable and expressive paradigm for alignment.
+  - **Online stage**: Bootstrap with fresh critiques, refining the policy iteratively.
 
 </div>
 </div>
