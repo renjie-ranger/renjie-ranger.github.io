@@ -3,6 +3,25 @@
 
 ## 🧠 LLM Reasoning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='pub_images/verbal_feedback.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Language Models Can Learn from Verbal Feedback without Scalar Rewards](https://arxiv.org/pdf/2509.22638) \\
+**Renjie Luo**\*, Zichen Liu, Xiangyan Liu, Chao Du, Min Lin,  
+Wenhu Chen, Wei Lu, Tianyu Pang*
+
+[**Project**](https://github.com/sail-sg/feedback-conditional-policy) <strong><span class='show_paper_citations' data='X7Fy--gAAAAJ:u5HHmVD_uO8C'></span></strong>
+
+- **TLDR**: 🚀 We show that LLMs can directly learn from **verbal feedback** — no scalar rewards required.  
+- **Motivation**: Scalar rewards compress rich feedback into single numbers (e.g., “redundant but correct” vs. “concise but typo-ridden” both → 0.8). This discards nuance.  
+- **Method**: We propose the **Feedback-Conditional Policy (FCP)** — treating feedback as a **conditioning signal**.  
+  - **Offline stage**: Learn from response–feedback pairs via simple MLE.  
+  - **Online stage**: Bootstrap with fresh critiques, refining the policy iteratively.  
+- **Impact**: Reframes feedback-driven learning as **conditional generation** rather than reward optimization, providing a highly scalable and expressive paradigm for alignment.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='pub_images/through_the_valley.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
