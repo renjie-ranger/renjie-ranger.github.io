@@ -16,6 +16,7 @@ Wenhu Chen, Wei Lu, Tianyu Pang*
 - **Method**: We propose the **Feedback-Conditional Policy (FCP)** — treating feedback as a **conditioning signal**.  
   - **Offline stage**: Learn from response–feedback pairs via simple MLE.  
   - **Online stage**: Bootstrap with fresh critiques, refining the policy iteratively.
+- **Note**: This work predates and has been discussed by several recent studies about self-distillation.
 
 </div>
 </div>
